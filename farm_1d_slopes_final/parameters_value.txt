@@ -1,0 +1,10 @@
+lh_status .true. .false.
+alb_cap_value 0.32
+alb_frost_value 0.35 0.4 0.3
+atm_wat_value 1e-4
+ndt_value 1400
+latitude_value 46.33
+alb_bg_value 0.25
+ti_bg_value 240 400
+u_value 2.5 5 10
+watercaptag_status .false.
